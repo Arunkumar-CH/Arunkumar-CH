@@ -1,7 +1,7 @@
 ### Hello There 👋
 
-#### I'm Arunkumar C H
-Software Developer and Senior Finance Analyst
+## I'm Arunkumar C H
+###### **Software Developer** **and Senior Finance Analyst**
 
 I'm Data Scientist enthusiast and looking forward to contribute to the data scientist community. I am well versed with
 1. Applied Machine Learning 
