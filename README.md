@@ -1,12 +1,12 @@
-### Hello There 👋
+### Hello There👋
 
 ## I'm Arunkumar C H
 ###### **Software Developer** **and Senior Finance Analyst**
 
-I'm Data Scientist enthusiast and looking forward to contribute to the data scientist community. I am well versed with
-1. Applied Machine Learning 
-2. Structured Query Language
-3. Natural Language Processing (NLP)
+### I'm Data Scientist enthusiast and looking forward to contribute to the data scientist community. I am well versed with
+* ****1. Applied Machine Learning 
+* 2. Structured Query Language
+*3. Natural Language Processing (NLP)
 4. Apache Spark
 5. AWS
 6. Model Deployment using Streamlit
@@ -15,13 +15,13 @@ I'm Data Scientist enthusiast and looking forward to contribute to the data scie
 9. Tableau 2.0
 10. PowerBI
 
-I’m currently working on,
+### I’m currently working on,
 
 1. Retail Demand Prediction
 2. Time Series Forecasting
 3. Recommender Systems
 
-I’m currently learning, 
+### I’m currently learning, 
 1. Applied Computer Vision
 2. MongoDB
 3. Apache Hive
