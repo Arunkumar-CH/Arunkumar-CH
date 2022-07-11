@@ -4,9 +4,9 @@
 ###### **Software Developer** **and Senior Finance Analyst**
 
 ### I'm Data Scientist enthusiast and looking forward to contribute to the data scientist community. I am well versed with
-* ****1. Applied Machine Learning 
-* 2. Structured Query Language
-*3. Natural Language Processing (NLP)
+1. Applied Machine Learning 
+2. Structured Query Language
+3. Natural Language Processing (NLP)
 4. Apache Spark
 5. AWS
 6. Model Deployment using Streamlit
