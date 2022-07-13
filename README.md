@@ -13,7 +13,7 @@
 7. Model Deployment using Colab
 8. Structured Thinking and Communication
 9. Tableau 2.0
-10. PowerBI
+10. PowerBI(with DAX)
 
 ### I’m currently working on,
 
